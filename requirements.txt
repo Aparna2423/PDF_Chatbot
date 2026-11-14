@@ -1,0 +1,10 @@
+# All open-source / local - no paid API keys needed
+# Install Ollama from https://ollama.com, then:  ollama pull qwen:4b   (app)  /  ollama pull llama3:8b   (notebook)
+langchain>=0.2,<1.0
+langchain-community>=0.2,<1.0
+chromadb
+pypdf
+sentence-transformers
+gradio
+python-dotenv
+jupyter
